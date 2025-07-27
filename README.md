@@ -23,7 +23,7 @@ This repository contains my first hands-on networking lab built using *Cisco Pac
 ## 📁 File Included
 
 - [basic_network.pkt](https://drive.google.com/file/d/1MgK8PXSkWBZEwaL45WgfORFAWVopWMAD/view?usp=drivesdk) – Cisco Packet Tracer project file  
-  📥 Click the link to view/download from Google Drive
+  📥 Click the link to download from Google Drive
 
 ## 🚀 Next Steps
 
